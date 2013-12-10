@@ -49,3 +49,5 @@ A. What is Git Annex (Assistant)?
 ## Git Annex
 
 http://git-annex.branchable.com/
+
+see google doc for my notes!
